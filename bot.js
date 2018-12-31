@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const prefix = "$";
+const prefix = "'";
 
 // ========================================== [ CONSTRUCTERS ] =========================================
 
@@ -173,4 +173,4 @@ client.on("message", async message => {
 // CODES - COPYRIGHT
 
 
-client.login("NTE3NzQ2OTQ1MTYzMzk1MDc0.Duxc_w.Tn_XoJuTcKKBm3m_Lc5Re95CB2k");
+client.login("NTI5MjY0ODEyNTE0MDgyODI4.DwuWBw.w3ohaNmqeGLuoQTLdgqrSdsRwTI");
